@@ -6,4 +6,5 @@
 ## PythonOOP.png Code being run o flowers and an explanation
 ## Flower.py code in a text document 
 ## NetworkDesign newtwork goes to router then computers and printer
+## SQLQuery query of a stores table of that pulls products that cost over $50
 This repository contains listings and description  of the files i have created while taking information technology course.
